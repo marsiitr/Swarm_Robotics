@@ -24,7 +24,7 @@ MPU-92/65 is used. For controlling the motors, a motor driver(particularly L298)
 <p align="center">
   <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img5.jpeg">
 </p>
-*Initially each bot is set to a particular same direction, but when the user calls for a shape using a user friendy interface, each bot is assigned its final coordinates in the field of view of the overhead camera. Thus each bot reaches to its final position one by one. And the final shape is achieved.*
+<i>Initially each bot is set to a particular same direction, but when the user calls for a shape using a user friendy interface, each bot is assigned its final coordinates in the field of view of the overhead camera. Thus each bot reaches to its final position one by one. And the final shape is achieved.</i>
 
 ## Cost Structure of the Components Used
 
