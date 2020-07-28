@@ -3,7 +3,7 @@
 
 <div style="text-align: justify">
 <p align="center">
-  <img width="600" height="400" src="https://cdn.thenewstack.io/media/2017/10/f1235e26-mergeable-nervous-system-robots-1.jpeg">
+  <img width="600" height="400" src="/Images and Videos/Images/Shapes/Square">
 </p>
 
 ## Abstract
@@ -15,7 +15,7 @@ As swarm of ants work in unison to achieve an intimidating task, similarly multi
 ## Mechanical Aspect of the Design
 This project consists of four mechanically identical bots which move in unison to form the shape specified by the user. But each of the bot has a unique identity because of the unique QR code pasted on its roof. Each bot has 2 sheets of ply one over the other with electrical components between them. A single bot consists of 2 normal wheels at the back, 1 castor wheel at the front and 2 L-brackets for holding motors in them.
 <p align="center">
-  <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img1.jpeg">
+  <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img3.jpeg">
 </p>
 
 ## Electronics Aspect of the Design
@@ -45,6 +45,16 @@ Initially each bot is set to a particular same direction, but when the user call
 | PlyWood                  |      1   |        280    |        280 |
 | Miscellaneous            |      -   |          -    |        600 |
 | Total                    |          |               | Rs.18000/- |
+
+## SolidWorks Design
+<p align="center">
+  <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img1.jpeg">
+</p>
+
+## Working
+<p align="center">
+  <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img6.jpeg">
+</p>
 
 ## Applications
 Potential applications of swarms are many. To list the few:
