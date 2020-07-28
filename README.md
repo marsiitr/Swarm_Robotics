@@ -78,8 +78,8 @@ MPU-92/65 is used. For controlling the motors, a motor driver(particularly L298)
 * [Shubhanshu Agarwal](https://github.com/Shubhanshu07)
 
 ## References
-* OpenCV Python Tutorial For Beginners - https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K
-* Stack Overflow - https://stackoverflow.com/
-* Pyimagesearch - https://pyimagesearch.com/
-* Arduino - https://www.arduino.cc/
+* [OpenCV Python Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)
+* [Stack Overflow](https://stackoverflow.com/)
+* [Pyimagesearch](https://pyimagesearch.com/)
+* [Arduino](https://www.arduino.cc/)
 </div>
