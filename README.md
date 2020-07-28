@@ -3,7 +3,7 @@
 
 <div style="text-align: justify">
 <p align="center">
-  <img width="600" height="400" src="/Images and Videos/Images/Shapes/Square">
+  <img width="600" height="400" src="/Images and Videos/Images/Shapes/Square.png">
 </p>
 
 ## Abstract
@@ -46,12 +46,8 @@ Initially each bot is set to a particular same direction, but when the user call
 | Miscellaneous            |      -   |          -    |        600 |
 | Total                    |          |               | Rs.18000/- |
 
-## SolidWorks Design
-<p align="center">
-  <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img1.jpeg">
-</p>
-
 ## Working
+
 <p align="center">
   <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img6.jpeg">
 </p>
