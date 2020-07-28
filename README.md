@@ -1,7 +1,7 @@
 # Swarm_Robotics
 ## Srishti 2020
 
-<div style="text-align: justify"> your-text-here
+<div style="text-align: justify">
 <p align="center">
   <img width="600" height="400" src="https://cdn.thenewstack.io/media/2017/10/f1235e26-mergeable-nervous-system-robots-1.jpeg">
 </p>
