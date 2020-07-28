@@ -13,7 +13,11 @@ Swarm robotics is an approach to the coordination of the multiple robots as a sy
 As swarm of ants work in unison to achieve an intimidating task, similarly multiple bots can work in unison to achieve a seemingly difficult task. As the newbies, out of curiosity we choose to work on the same.
 
 ## Mechanical Aspect of the Design
-This project consists of four mechanically identical bots which move in unison to form the shape specified by the user. But each of the bot has a unique identity because of the unique QR code pasted on its roof. Each bot has 2 sheets of ply one over the other with electrical components between them. A single bot consists of 2 normal wheels at the back, 1 castor wheel at the front and 2 L-brackets for holding motors in them.
+This project consists of four mechanically identical bots which move in unison to form the shape specified by the user. But each of the bot has a unique identity because of the unique QR code pasted on its roof.
+<p align="center">
+  <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img1.jpeg">
+</p>
+Each bot has 2 sheets of ply one over the other with electrical components between them. A single bot consists of 2 normal wheels at the back, 1 castor wheel at the front and 2 L-brackets for holding motors in them.
 <p align="center">
   <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img3.jpeg">
 </p>
