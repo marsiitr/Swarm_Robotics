@@ -7,24 +7,24 @@
 </p>
 
 ## Abstract
-*Swarm robotics is an approach to the coordination of the multiple robots as a system which consist of large numbers of mostly simple physical robots.  Only through their interactions a collective behavior emerges that is able to solve complex tasks. These characteristics lead to the main advantages of swarms: adaptability, robustness, and scalability. Under this excuse we made multiple bots which coordinate among themselves to form different shapes.*
+Swarm robotics is an approach to the coordination of the multiple robots as a system which consist of large numbers of mostly simple physical robots.  Only through their interactions a collective behavior emerges that is able to solve complex tasks. These characteristics lead to the main advantages of swarms: adaptability, robustness, and scalability. Under this excuse we made multiple bots which coordinate among themselves to form different shapes.
 
 ## Motivation
-*As swarm of ants work in unison to achieve an intimidating task, similarly multiple bots can work in unison to achieve a seemingly difficult task. As the newbies, out of curiosity we choose to work on the same.*
+As swarm of ants work in unison to achieve an intimidating task, similarly multiple bots can work in unison to achieve a seemingly difficult task. As the newbies, out of curiosity we choose to work on the same.
 
 ## Mechanical Aspect of the Design
-*This project consists of four mechanically identical bots which move in unison to form the shape specified by the user. But each of the bot has a unique identity because of the unique QR code pasted on its roof. Each bot has 2 sheets of ply one over the other with electrical components between them. A single bot consists of 2 normal wheels at the back, 1 castor wheel at the front and 2 L-brackets for holding motors in them.*
+This project consists of four mechanically identical bots which move in unison to form the shape specified by the user. But each of the bot has a unique identity because of the unique QR code pasted on its roof. Each bot has 2 sheets of ply one over the other with electrical components between them. A single bot consists of 2 normal wheels at the back, 1 castor wheel at the front and 2 L-brackets for holding motors in them.
 <p align="center">
   <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img1.jpeg">
 </p>
 
 ## Electronics Aspect of the Design
-*In each of the bot, the microcontroller used is ESP8266(NodeMCU). For angle detection fron the initial position for a particular bot, a gyroscope sensor(particularly
-MPU-92/65 is used. For controlling the motors, a motor driver(particularly L298) is used in each bot.*
+In each of the bot, the microcontroller used is ESP8266(NodeMCU). For angle detection fron the initial position for a particular bot, a gyroscope sensor(particularly
+MPU-92/65 is used. For controlling the motors, a motor driver(particularly L298) is used in each bot.
 <p align="center">
   <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img5.png">
 </p>
-<i>Initially each bot is set to a particular same direction, but when the user calls for a shape using a user friendy interface, each bot is assigned its final coordinates in the field of view of the overhead camera. Thus each bot reaches to its final position one by one. And the final shape is achieved.</i>
+Initially each bot is set to a particular same direction, but when the user calls for a shape using a user friendy interface, each bot is assigned its final coordinates in the field of view of the overhead camera. Thus each bot reaches to its final position one by one. And the final shape is achieved.
 
 ## Cost Structure of the Components Used
 
@@ -47,7 +47,7 @@ MPU-92/65 is used. For controlling the motors, a motor driver(particularly L298)
 | Total                    |          |               | Rs.18000/- |
 
 ## Applications
-*Potential applications of swarms are many. To list the few:*
+Potential applications of swarms are many. To list the few:
 * Tasks that demand miniaturization, like distributed sensing tasks in micromachinery or the human body.
 * One of the promising use of the swarms is in disaster rescue missions.
 * Swarms can be used in traffic handling.
@@ -67,15 +67,15 @@ MPU-92/65 is used. For controlling the motors, a motor driver(particularly L298)
 * Use of GPS instead, to reach their destination.    
 
 ## Team Members
-* [Paritosh Sanadhya](https://github.com/Pasa1912)
-* [Prathmesh Bhaktan](https://github.com/prathamb)
-* [Samiksha Jain](https://github.com/samiksha-jain003)
-* [Sarthak Malik](https://github.com/ganzagun)
-* [Vidhi Mittal](https://github.com/Vidhi-mittal01)
+1. [Paritosh Sanadhya](https://github.com/Pasa1912)
+2. [Prathmesh Bhaktan](https://github.com/prathamb)
+3. [Samiksha Jain](https://github.com/samiksha-jain003)
+4. [Sarthak Malik](https://github.com/ganzagun)
+5. [Vidhi Mittal](https://github.com/Vidhi-mittal01)
 
 ## Mentors
-* [Annu Shree](https://github.com/annushree21)
-* [Shubhanshu Agarwal](https://github.com/Shubhanshu07)
+1. [Annu Shree](https://github.com/annushree21)
+2. [Shubhanshu Agarwal](https://github.com/Shubhanshu07)
 
 ## References
 * [OpenCV Python Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIa7D1O6skqDQ-JZ1GGHKK-K)
