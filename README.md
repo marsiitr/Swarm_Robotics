@@ -22,7 +22,7 @@
 *In each of the bot, the microcontroller used is ESP8266(NodeMCU). For angle detection fron the initial position for a particular bot, a gyroscope sensor(particularly
 MPU-92/65 is used. For controlling the motors, a motor driver(particularly L298) is used in each bot.*
 <p align="center">
-  <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img5.jpeg">
+  <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img5.png">
 </p>
 <i>Initially each bot is set to a particular same direction, but when the user calls for a shape using a user friendy interface, each bot is assigned its final coordinates in the field of view of the overhead camera. Thus each bot reaches to its final position one by one. And the final shape is achieved.</i>
 
