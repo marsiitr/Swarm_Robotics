@@ -7,13 +7,13 @@
 </p>
 
 ## Abstract
-*Swarm robotics is an approach to the coordination of the multiple robots as a system which consist of large numbers of mostly simple physical robots.  Only through their interactions a collective behavior emerges that is able to solve complex tasks. These characteristics lead to the main advantages of swarms: adaptability, robustness, and scalability. Under this excuse we made multiple bots which coordinate among themselves to form different shapes*
+*Swarm robotics is an approach to the coordination of the multiple robots as a system which consist of large numbers of mostly simple physical robots.  Only through their interactions a collective behavior emerges that is able to solve complex tasks. These characteristics lead to the main advantages of swarms: adaptability, robustness, and scalability. Under this excuse we made multiple bots which coordinate among themselves to form different shapes.*
 
 ## Motivation
 *As swarm of ants work in unison to achieve an intimidating task, similarly multiple bots can work in unison to achieve a seemingly difficult task. As the newbies, out of curiosity we choose to work on the same.*
 
 ## Mechanical Aspect of the Design
-*This project consists of four mechanically identical bots which move in unison to form the shape specified by the user. But each of the bot has a unique identity because of the unique QR code pasted on its roof. Each bot has 2 sheets of ply one over the other with electrical components between them. A single bot consists of 2 normal wheels at the back, 1 castor wheel at the front and 2 L-brackets for holding motors in them*
+*This project consists of four mechanically identical bots which move in unison to form the shape specified by the user. But each of the bot has a unique identity because of the unique QR code pasted on its roof. Each bot has 2 sheets of ply one over the other with electrical components between them. A single bot consists of 2 normal wheels at the back, 1 castor wheel at the front and 2 L-brackets for holding motors in them.*
 
 ## Electronics Aspect of the Design
 *In each of the bot, the microcontroller used is ESP8266(NodeMCU). For angle detection fron the initial position for a particular bot, a gyroscope sensor(particularly
