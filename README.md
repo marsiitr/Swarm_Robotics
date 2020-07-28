@@ -17,7 +17,9 @@ This project consists of four mechanically identical bots which move in unison t
 <p align="center">
   <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img1.jpeg">
 </p>
+
 Each bot has 2 sheets of ply one over the other with electrical components between them. A single bot consists of 2 normal wheels at the back, 1 castor wheel at the front and 2 L-brackets for holding motors in them.
+
 <p align="center">
   <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img3.jpeg">
 </p>
@@ -28,7 +30,7 @@ MPU-92/65 is used. For controlling the motors, a motor driver(particularly L298)
 <p align="center">
   <img width="600" height="400" src="/Mechanical Design/Solidworks_design/CAD_and_circuit_images/Img5.png">
 </p>
-Initially each bot is set to a particular same direction, but when the user calls for a shape using a user friendy interface, each bot is assigned its final coordinates in the field of view of the overhead camera. Thus each bot reaches to its final position one by one. And the final shape is achieved.
+  Initially each bot is set to a particular same direction, but when the user calls for a shape using a user friendy interface, each bot is assigned its final coordinates in the field of view of the overhead camera. Thus each bot reaches to its final position one by one. And the final shape is achieved.
 
 ## Cost Structure of the Components Used
 
