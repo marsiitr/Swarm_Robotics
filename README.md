@@ -1,7 +1,6 @@
 # Swarm_Robotics
 ## Srishti 2020
-
-<div style="align: justify">
+<p align ="justify">
 <p align="center">
   <img width="600" height="400" src="/Images and Videos/Images/Shapes/Square.png">
 </p>
@@ -98,4 +97,4 @@ Potential applications of swarms are many. To list the few:
 * [Stack Overflow](https://stackoverflow.com/)
 * [Pyimagesearch](https://pyimagesearch.com/)
 * [Arduino](https://www.arduino.cc/)
-</div>
+</p>
