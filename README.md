@@ -43,7 +43,7 @@ Then the real loop function starts. First we get data from the camera . Then the
 
 | Part                     | Quantity | Cost per unit | Total cost |
 |--------------------------|:--------:|:-------------:|-----------:|
-| ESP9266 (NodeMCU)        |      4   |        330    |       1320 |
+| ESP8266 (NodeMCU)        |      4   |        330    |       1320 |
 | L298  (Motor Driver)     |      4   |        250    |       1000 |
 | 60rpm DC Motor           |      8   |        200    |       1600 |
 | MPU 92/65 (Gyroscope)    |      4   |        300    |       1200 |
@@ -82,7 +82,7 @@ Potential applications of swarms are many. To list the few:
 ## Team Members
 
 1. [Paritosh Sanadhya](https://github.com/Pasa1912)
-2. [Prathmesh Bhaktan](https://github.com/prathamb)
+2. [Prathamesh Bhaktan](https://github.com/prathamb)
 3. [Samiksha Jain](https://github.com/samiksha-jain003)
 4. [Sarthak Malik](https://github.com/ganzagun)
 5. [Vidhi Mittal](https://github.com/Vidhi-mittal01)
